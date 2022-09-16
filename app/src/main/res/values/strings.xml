@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">calculoBesta</string>
+    <string name="variavel_x">Variável X:</string>
+    <string name="x">X</string>
+    <string name="variavel_y">Variável Y:</string>
+    <string name="y">Y</string>
+    <string name="set_variavel_x">Set Variável X</string>
+    <string name="set_variavel_y">Set Variável Y</string>
+    <string name="resultado">Resultado</string>
+    <string name="calcular">Calcular</string>
+    <string name="soma">Soma:</string>
+    <string name="ok">OK</string>
+    <string name="canecelar">CANECELAR</string>
+    <string name="merciana">Merciana</string>
+    <string name="realizando_calculo">Calculando ....</string>
+    <string name="label_variavel">Label Variável</string>
+</resources>

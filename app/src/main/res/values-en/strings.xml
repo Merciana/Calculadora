@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">calculoBesta</string>
+    <string name="merciana">Merciana</string>
+    <string name="canecelar">cancelar</string>
+    <string name="ok">ok</string>
+    <string name="soma">"Soma: "</string>
+    <string name="calcular">Calcular</string>
+    <string name="resultado">Resultado</string>
+    <string name="set_variavel_y">Set Variável Y</string>
+    <string name="set_variavel_x">Set Variável X</string>
+    <string name="y">Y</string>
+    <string name="variavel_y">Variável Y</string>
+    <string name="x">X</string>
+    <string name="variavel_x">"Variável X: "</string>
+</resources>
